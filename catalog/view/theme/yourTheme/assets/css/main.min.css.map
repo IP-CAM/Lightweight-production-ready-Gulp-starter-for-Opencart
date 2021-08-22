@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.sass"],"names":[],"mappings":"AAAA,KACE,QAAA,SAAA,QAAA,KACA,iBAAA,KAAA,sBAAA,KACA,eAAA,KAAA,IAAA","file":"main.min.css","sourcesContent":["body\n  display: grid\n  grid-template-columns: 100%\n  grid-auto-rows: auto 1fr auto\n"]}
